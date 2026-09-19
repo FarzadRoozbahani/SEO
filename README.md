@@ -1,5 +1,6 @@
 # SEO — 0 to 100 Complete Reference
 
+> 🌐 **Language:** English | [فارسی](README.fa.md)
 > یه مرجع کامل از صفر تا صد سئو + GEO (Generative Engine Optimization)
 
 ---
